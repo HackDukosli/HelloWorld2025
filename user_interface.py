@@ -4,7 +4,6 @@ from movie_vectorizer import get_ideal_movie_vector, get_movieid_vector_dict
 from kdtree import rknn_id
 
 
-
 st.set_page_config(page_title="Movie Recommender", page_icon="🎬", layout="wide")
 
 st.markdown("""
